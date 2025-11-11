@@ -1,0 +1,39 @@
+# Ambiente Virtual
+.venv/
+venv/
+*.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações de IDE (opcional, mas recomendado)
+.vscode/
+.idea/
+
+# Arquivos de Log
+*.log
+
+# Pastas de dados de runtime
+# (Ignora tudo dentro dessas pastas)
+data/jobs/
+data/logs/
+data/progress/
+data/upload/
+data/export/
+
+# Arquivos ZIP (geralmente são exports)
+*.zip
+
+# Ignorar arquivos de dados específicos
+data/job_sequence.txt
+data/users.json
+
+# Ignorar arquivos temporários
+temp_patch.txt
+*.tmp
+*.patch
+data/job_sequence.txt
+data/users.json

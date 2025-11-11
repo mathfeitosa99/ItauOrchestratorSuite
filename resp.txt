@@ -1,0 +1,1 @@
+{"job_id":"43","filename":"test_upload.csv","filesize":15,"layout":null,"encoding":"utf-8-sig","delimiter":";","uploaded_at":"2025-11-11T17:17:58.532132"}

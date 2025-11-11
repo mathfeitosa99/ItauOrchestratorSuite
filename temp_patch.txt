@@ -1,0 +1,14 @@
+*** Begin Patch
+*** Update File: app/frontend/index.html
+@@
+-        <div class="brand-copy">
+-          <h1>Itag Orchestrator Suite</h1>
+-          <p class="tagline">Central inteligente de orquestra??uo e integra??uo de comunica????es Itag.</p>
+-          <p class="subtagline">Do arquivo bruto ?? execu??uo automatizada ??" uma su??te para orquestrar toda a mensageria Itag.</p>
+-        </div>
++        <div class="brand-copy">
++          <h1>Ita&uacute; Orchestrator Suite</h1>
++          <p class="tagline">Central inteligente de orquestra&ccedil;&atilde;o e integra&ccedil;&atilde;o de comunica&ccedil;&otilde;es Ita&uacute;.</p>
++          <p class="subtagline">Do arquivo bruto &agrave; execu&ccedil;&atilde;o automatizada &mdash; uma su&iacute;te para orquestrar toda a mensageria Ita&uacute;.</p>
++        </div>
+*** End Patch
